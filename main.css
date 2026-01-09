@@ -34,6 +34,10 @@ li {
   color: red;
 }
 
+#mainquote {
+  border: 2px solid black;
+}
+
 img {
   display: block;
   margin: 0 auto;
