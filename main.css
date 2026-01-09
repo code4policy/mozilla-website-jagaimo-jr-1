@@ -30,6 +30,14 @@ li {
   letter-spacing: 1px;
 }
 
+.quote {
+  color: red;
+}
+
+#mainquote {
+  border: 2px solid black;
+}
+
 img {
   display: block;
   margin: 0 auto;
